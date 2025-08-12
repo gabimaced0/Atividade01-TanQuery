@@ -2,6 +2,7 @@
 
 **Integrante:**  
 Gabrielly Campos Macedo
+Rafael Macoto Magalhães
 
 ## Objetivo
 Consumir `https://jsonplaceholder.typicode.com/users` usando **@tanstack/react-query** exibindo **nome, e-mail e cidade**, com estados de **carregando** e **erro**.
