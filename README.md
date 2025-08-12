@@ -1,8 +1,7 @@
 # Atividade01 - TanStack Query (React Native + Expo)
 
-**Integrante:**  
+**Integrantes:**  
 Gabrielly Campos Macedo
-
 Rafael Macoto Magalhães
 
 ## Objetivo
