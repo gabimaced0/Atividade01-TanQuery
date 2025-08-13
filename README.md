@@ -1,8 +1,7 @@
 # Atividade01 - TanStack Query (React Native + Expo)
 
 **Integrantes:**  
-Gabrielly Campos Macedo e
-Rafael Macoto Magalhães
+Gabrielly Campos Macedo, Rafael Macoto Magalhães e Beatriz Ferreira Cruz
 
 ## Objetivo
 Consumir `https://jsonplaceholder.typicode.com/users` usando **@tanstack/react-query** exibindo **nome, e-mail e cidade**, com estados de **carregando** e **erro**.
