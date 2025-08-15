@@ -26,6 +26,7 @@ Passos:
 - `useQuery` para buscar `https://jsonplaceholder.typicode.com/users`
 - Lista com **nome**, **email** e **cidade**
 - Estados de **carregando** e **erro**
+- **Extra**: pull-to-refresh e botão **Atualizar** para `refetch`
 
 ## Integrantes
 - Beatriz Ferreira Cruz — RM555698
